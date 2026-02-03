@@ -1,4 +1,4 @@
-project for valentines\ln
-gracify productions\ln
-seal of approval\ln 
+project for valentines.
+gracify productions.
+seal of approval.
 grace
